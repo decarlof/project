@@ -7,7 +7,7 @@ Project
 
 Documentation
 -------------
-* https://project.readthedocs.org
+* https://mydocproject.readthedocs.org
 
 Features
 --------
