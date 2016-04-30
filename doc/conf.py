@@ -322,12 +322,7 @@ class Mock(object):
     def __radd__(self, other):
         return Mock()
 
-MOCK_MODULES = ['h5py',
-                'numpy', 
-                'spefile',
-                'netCDF4', 
-                'EdfFile',
-                'astropy']
+MOCK_MODULES = ['numpy']
 
 for mod_name in MOCK_MODULES:
     sys.modules[mod_name] = Mock()
