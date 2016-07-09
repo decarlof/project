@@ -3,7 +3,7 @@ Project
 =======
 
 
-`Project <https://github.com/decarlof/project>`_ provides an template doc to add to any project.
+`Project <https://github.com/decarlof/project>`_ provides a template doc to add to any project.
 
 Documentation
 -------------
