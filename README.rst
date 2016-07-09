@@ -1,6 +1,6 @@
-========
+=======
 Project
-========
+=======
 
 
 `Project <https://github.com/decarlof/project>`_ provides an template doc to add to any project.
