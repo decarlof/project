@@ -3,7 +3,9 @@ Install
 =======
 
 This section covers the basics of how to download and install 
-`Project <https://github.com/decarlof/project>`_.
+`Project <https://github.com/decarlof/project>`_. We recommend you 
+to install the `Anaconda Python <http://continuum.io/downloads>`_
+distribution.
 
 .. contents:: Contents:
    :local:
