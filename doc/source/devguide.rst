@@ -3,7 +3,7 @@ Development
 ===========
 
 This section explains the basics for developers who wish to contribute 
-to the docPy project.
+to a project.
 
 .. contents:: Contents:
    :local:
@@ -15,9 +15,9 @@ Fork the repository
 The project is maintained on GitHub, which is a version control and a 
 collaboration platform for software developers. To start first register 
 on `GitHub <https://github.com>`_ and fork the 
-`docPy repository <https://github.com/project/project>`_ 
+`Project repository <https://github.com/project/project>`_ 
 by clicking the **Fork** button in the header of the 
-`docPy repository <https://github.com/project/project>`_: 
+`Project repository <https://github.com/project/project>`_: 
 
 .. image:: img/fork-repo.png
 
@@ -27,7 +27,7 @@ GitHub space.
 Clone the repository
 ====================
 
-The next thing you want to do is to clone the repository you just created in
+The next thing you want to do is to clone the repository you just created
 in your personal GitHub space to your local machine. 
 
 You can do this by clicking the **Clone in Desktop**  button in the bottom of 
@@ -103,15 +103,15 @@ Contributing back
 =================
 
 Once you feel that the functionality you added would benefit the community, 
-then you should consider contributing back to the waveTPy project. For this, 
-go to your online GitHub repository of the project and click on the *green*
+then you should consider contributing back to the project. For this, 
+go to your online GitHub repository of the project and click on the *compare*
 button to compare, review and create a pull request.
 
 .. image:: img/create-revision.png
 
 After clicking on this button, you are presented with a review page 
 where you can get a high-level overview of what exactly has changed
-between your forked branch and the original docPy repository. 
+between your forked branch and the original project repository. 
 When you're ready to submit your pull request, click 
 **Create pull request**:
 
@@ -123,6 +123,8 @@ provide as much useful information and a rationale for why you’re making
 this Pull Request in the first place.
 
 When you’re ready typing out your heartfelt argument, click on **Send 
-pull request**. You’re done!
+pull request**. 
+
+You’re done!
 
 .. This text is partially adopted from GitHub guides and Wikipedia.
