@@ -3,7 +3,10 @@ Development
 ===========
 
 This section explains the basics for developers who wish to contribute 
-to a project.
+to a project mantained on GitHub and using the
+`fork <https://help.github.com/articles/fork-a-repo/>`_ /
+`pull request <https://help.github.com/articles/using-pull-requests/>`_
+mechanism for accepting developer contributions.
 
 .. contents:: Contents:
    :local:
