@@ -1,6 +1,6 @@
-============
-Project Name
-============
+===========
+Module Name
+===========
 
 
 .. image:: source/img/project-logo.png
@@ -8,11 +8,16 @@ Project Name
    :alt: project
 
 
-`Project <https://github.com/decarlof/project>`_ provides an template doc to add to any project.
-Here is how to add a link to your documentation
-`Docs <http://project.readthedocs.org/>`_ and here is how to add a reference :cite:`cite:01`
+This `GitHub repository <https://github.com/decarlof/project>`_ 
+provides a template to add `sphinx <http://www.sphinx-doc.org>`_ 
+/ `Read The Docs <http://read-the-docs.readthedocs.io>`_
+documentation to any python project to generate this
+`Module Docs <https://mydocproject.readthedocs.io>`_. 
 
-You can include equations like:
+These pages are written using `reStructuredText <http://www.sphinx-doc.org/en/stable/rest.html>`_
+that allows *emphasis*, **strong**, ``literal`` and many more styles.
+
+You can add a reference :cite:`cite:01`, include equations like:
 
 .. math::  V(x) = \left(\frac{1-\eta}{\sigma\sqrt{2\pi}}\right) \cdot exp\left({\frac{x^2}{2\sigma^2}}\right) + \eta \cdot \frac{\sigma}{2\pi} \cdot \frac{1}{x^2 + \left(\frac{\sigma}{2}\right)^2}
 
@@ -37,7 +42,7 @@ Features
 --------
 
 * List here 
-* the wavePy package features
+* the module features
 
 
 Contribute

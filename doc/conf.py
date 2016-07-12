@@ -65,8 +65,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-Affiliation = u'Affiliation'
-project = u'Project'
+Affiliation = u'My Affiliation'
+project = u'Module Name'
 copyright = u'2016, ' + Affiliation
 
 # The version info for the project you're documenting, acts as replacement for
