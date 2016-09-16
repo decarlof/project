@@ -131,7 +131,8 @@ def function_01(parameter_01, parameter_02, parameter_03):
     .. warning:: Warning text.
 
     .. note:: Note text.
-
+    
+    .. image:: img/plot_profile_animation.gif
 
     """
 
