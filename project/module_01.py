@@ -132,7 +132,7 @@ def function_01(parameter_01, parameter_02, parameter_03):
 
     .. note:: Note text.
     
-    .. image:: img/plot_profile_animation.gif
+    .. image:: ../img/plot_profile_animation.gif
 
     """
 

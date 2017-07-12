@@ -38,6 +38,17 @@ and tables:
 |     third     |    ordinal     |           3rd               |
 +---------------+----------------+-----------------------------+
 
+More examples:
+
+.. math:: X(e^{j\omega } ) = x(n)e^{ - j\omega n}
+
+.. warning:: Warning text.
+
+.. note:: Note text.
+    
+.. image:: source/img/plot_profile_animation.gif
+
+
 Features
 --------
 
